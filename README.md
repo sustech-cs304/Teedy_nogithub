@@ -6,7 +6,7 @@
 
 Teedy is an open source, lightweight document management system for individuals and businesses.
 
-modified by tianlei
+modified by tianlei 2024
 
 <hr />
 <h2 align="center">
